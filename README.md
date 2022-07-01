@@ -2,7 +2,7 @@
 
   &nbsp;
   
-  <a href="https://twitter.com/_itz_athul/"><img src="./images/instagram.png" width="30px"/></a>
+  <a href="https://instagram.com/_itz_athul/"><img src="./images/instagram.png" width="30px"/></a>
 
   <hr>
 
@@ -28,18 +28,7 @@
     </a>
     <a href="https://github.com/VolcanoGunshot?tab=repositories">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=VolcanoGunshot&hide_border=true&background=0D1117&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=FF0000&ring=FF2626&stroke=FFFFFF)](https://git.io/streak-stats" />
-    </a></p>
-    <p align="center">
-    <a href="https://github.com/VolcanoGunshot/ZenorZ/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VolcanoGunshot&repo=ZenorZ&bg_color=0d1117&title_color=FF0000&text_color=8b949e&icon_color=FF4D4D&hide_border=true/" />
-    </a>
-    <a href="https://github.com/VolcanoGunshot/VolcanoGunshot/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WEBXTheDev&repo=VolcanoGunshot&bg_color=0d1117&title_color=FF0000&text_color=8b949e&icon_color=FF4D4D&hide_border=true/" />
-      </a>
-      <a href="https://github.com/VolcanoGunshot/Lavanox/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VolcanoGunshot&repo=Lavanox&bg_color=0d1117&title_color=FF0000&text_color=8b949e&icon_color=FF4D4D&hide_border=true/" />
-      </a>     
-</p>
+
 
 &nbsp;<hr>&nbsp;
   
