@@ -31,11 +31,14 @@
 
 
 &nbsp;<hr>&nbsp;
+
+# &nbsp; DISCORD
   
-  <a href="https://discord.gg"><img align="middle" src="https://discord.c99.nl/widget/theme-4/894341012917477467.png">      
+  <a href="https://discord.gg/bothub"><img align="middle" src="https://discord.c99.nl/widget/theme-4/894341012917477467.png">      
   &nbsp;<hr>&nbsp;
       
-    
+# &nbsp; SPOTIFY
+
 <p align="center">    
 <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31ql6qtaeo3p54qs4hx5b6hfpxj4&count=2">
     
