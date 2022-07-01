@@ -1,6 +1,8 @@
 ## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/73310870?s=400&u=2308fdd374ca225e212e7cae92a54971e70d989d&v=4" width="200" />
 I'm **Athul**, An developer from somewhere in the earth. I like to code web applications and games. I have worked on many projects in my past, Some of my open source
 
+  [![HitCount](https://hits.dwyl.com/VolcanoGunshot/VolcanoGunshot.svg?style=flat-square)](http://hits.dwyl.com/VolcanoGunshot/VolcanoGunshot)
+
 Thanks for visiting my github profile. Have a great day ahead!~
   
 <h2 align="center"> 🚀 My Stats 🚀</h2>
