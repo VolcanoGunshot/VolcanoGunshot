@@ -2,7 +2,7 @@
 
   &nbsp;
   
-  <a href="https://instagram.com/_itz_athul/"><img src="./images/instagram.png" width="30px"/></a>
+  <a href="https://instagram.com/_itz_athul/"><img src="./images/instagram.webp" width="30px"/></a>
 
   <hr>
 
