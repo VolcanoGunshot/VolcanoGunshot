@@ -17,6 +17,7 @@
 
 # &nbsp; MY STATISTICS
 
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 &nbsp;
   <p align="center">
