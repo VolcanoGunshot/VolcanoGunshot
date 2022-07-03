@@ -1,12 +1,4 @@
-<!--Cover page of github.com/WEBXTheDev-->
 
-  &nbsp;
-  
-  <a href="https://instagram.com/_itz_athul/"><img src="./images/instagram.webp" width="30px"/></a>
-
-  <hr>
-
-  &nbsp;
 
 <h2> Heyo there, Myself <strong>Athul</h2>
 &nbsp;
@@ -17,6 +9,7 @@
 
 # &nbsp; MY STATISTICS
 
+![](https://visitor-badge.glitch.me/badge?page_id=VolcanoGunshot.VolcanoGunshot)
 
 &nbsp;
   <p align="center">
@@ -50,4 +43,4 @@
 <div align="center">
 
   
-  </div>
+    </div>
