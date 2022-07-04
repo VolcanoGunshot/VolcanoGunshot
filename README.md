@@ -9,7 +9,6 @@
 <p align="center"> 
 	<img src="https://visitor-badge.glitch.me/badge?page_id=VolcanoGunshot.VolcanoGunshot" alt="VolcanoGunshot" /> 
 	<a href = "https://commits.top/india.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="VolcanoGunshot" target="_blank"/> 
 	</a>
 </p>
 
